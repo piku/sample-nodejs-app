@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "express": "^4.17.1",
-    "express-ws": "^2.0.0"
+    "express-ws": "^4.0.0"
   },
   "description": "Piku node example.",
   "name": "piku-example"
