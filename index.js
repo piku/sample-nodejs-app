@@ -1,4 +1,4 @@
-#!/usr/bin/env nodejs
+#!/usr/bin/env node
 
 const express = require('express');
 const expressws = require('express-ws');
